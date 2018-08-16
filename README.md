@@ -1,6 +1,6 @@
 # hello-world
-my first github
+my first github - adding some more info
 
 
-Just playing around with this thing called github and branches.
+Just messing around with this thing called github and branches.
 
